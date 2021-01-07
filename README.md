@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Joel Nickel.
+
+I'm a 16 year old from Canada. I do a bit of web development, and I want to learn how to create cool tools in other languages.
 
 <!--
 **jnickel01/jnickel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
